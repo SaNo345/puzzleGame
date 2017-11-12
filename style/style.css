@@ -1,0 +1,25 @@
+body{
+    background-color: azure;
+}
+.conteiner{
+    margin-left: 35%;   
+    width: 370px;
+    height: 370px;
+}
+.picSlice{
+    border: 1px solid white;
+    width: 32%;
+    height: 122px;
+    float: left;
+}
+.butt{
+    position: absolute;
+    top: 60%;
+    left: 45%;
+}
+#win{
+    position: absolute;
+    top:30%;
+    font-size: 100px;
+    color: red;
+}
